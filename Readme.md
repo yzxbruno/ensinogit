@@ -1,0 +1,1 @@
+Esse diretório está sendo usado para estudo do Senac
