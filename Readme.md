@@ -1,1 +1,1 @@
-Esse diretório está sendo usado para estudo do Senac
+Esse diretório está sendo usado para estudo do Senac Lana del Rey
